@@ -1,4 +1,4 @@
-# TestReport Builder
+# Test Report Builder
 
 This is a simple script to assist in generating test reports for manual testing.
 If you don't have any tool to run your tests, take screenshots and generate your reports, this might be helpful.
